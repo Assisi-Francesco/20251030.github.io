@@ -11,7 +11,7 @@
   - 2교시: 금융시스템 구성요소와 DeFi 대응, AMM x·y=k, 슬리피지·Price Impact, 비영구적 손실, 렌딩(과담보·자동청산·연쇄청산·오라클), 스테이블코인 담보구조(Fiat/Crypto/Algorithmic/USDe)와 트릴레마.
   - 3교시: Uniswap v2/v3/v4와 LP APR 실례, Curve 불변식, 유동성 전쟁(커브 전쟁·ve 모델), Aave/Compound/Morpho 구조 비교, Yearn Vault와 Money Legos(Shared State·EVM·ERC), 리스크(컴파운드 등호 버그, The DAO, KelpDAO 2026, 규제: GENIUS Act·SEC 큐레이터·CFTC).
   - 4교시: 실행(Execution)과 위험 이전(Risk Transfer)의 구분, 3가지 진단 렌즈, 같은 APY 뒤의 다른 리스크, Morpho LLTV, Pendle PT/YT, 제로코스트 칼라, RWA.
-  - 5·6교시(오태민): 유로달러와 런던 시티, 공법·사법의 두 겹, 보통법 역사, 역외 섬들의 크립토 실험과 MiCA·지니어스법, FIFA 사건과 달러 환거래망·병렬 결제, 스트레인지 구조적 권력론.
+  - 5·6교시(오태민, 111p): 유로달러와 런던 시티, 공법·사법의 두 겹, 보통법 역사, 역외 섬들의 크립토 실험과 MiCA·지니어스법, FIFA 사건과 달러 환거래망·병렬 결제, 스트레인지 구조적 권력론과 달러 스테이블코인 데이터(세 개의 의도, 가시성 이동, 포획 전략의 역설), 비트코인 4년 주기. 사용자가 제공한 쪽 번호·이미지 포함 상세본은 `docs/memory/자금세탁과_크립토/자금세탁과_크립토_강의정리.md`.
 
 ## 응답 스타일 (사용자 선호)
 
